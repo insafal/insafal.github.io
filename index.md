@@ -1,20 +1,27 @@
-# Prénom Nom
+# Insaf Alilou
 
 ## À propos de moi
-Étudiant(e) passionné(e) en information-communication, je suis spécialisé(e) en...
+Étudiante passionnée en information-communication.
 
 ## Formation
-- **2023:** Master en Information-Communication, Université XYZ.
-- **2021:** Licence en Communication, Université ABC.
+- **2022:** Baccalauréat général, spcécialités Sciences Economiques et Sociales et Littérature anglaise au lycée Max Linder
+- **2022-20025:** BUT Information-Communication spécialité Numérique dans les organisations
 
 ## Expériences professionnelles
-- **2022:** Stage chez [Nom de l'entreprise](#), description...
+- **2023:** Stage au Pôle Documentation du Conseil Départemental de la Gironde
+- **2024:** Stage Social Media & Influence Manager chez Ma Vie Pratique à Bordeaux
 
 ## Compétences
 - Communication digitale
 - Rédaction web
-- ...
+- Veille concurrentielle
+- Photographie
+- Gestion de projet
+- Veille informationelle
+- E-réputation
+- Podcasting
+
 
 ## Contact
-- Email: exemple@email.com
-- LinkedIn: [Mon LinkedIn](https://www.linkedin.com/in/monprofil/)
+- Email: alilouinsaf@gmail.com
+- LinkedIn: (www.linkedin.com/in/insaf-a-a120a7259)
