@@ -24,4 +24,4 @@
 
 ## Contact
 - Email: alilouinsaf@gmail.com
-- LinkedIn: (www.linkedin.com/in/insaf-a-a120a7259)
+- LinkedIn: www.linkedin.com/in/insaf-a-a120a7259
